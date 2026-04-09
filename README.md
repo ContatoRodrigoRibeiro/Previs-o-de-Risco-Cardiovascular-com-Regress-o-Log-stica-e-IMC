@@ -51,6 +51,6 @@ Abra o notebook no Jupyter ou Google Colab
 📌 Conclusão
 O modelo demonstrou boa capacidade preditiva, com destaque para as variáveis idade, colesterol e IMC. Projeto ideal para portfólio de Ciência de Dados / Machine Learning.
 
-Feito com ❤️ por Deeline Design
+Feito com ❤️ por  Rodrigo Ribeiro
 <img src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Ribeiro-blue" alt="LinkedIn">
 
